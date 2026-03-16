@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP32 T-Relay Firmware  
 Advanced SmartFlow Valve Controller
 
@@ -115,3 +116,7 @@ SmartFlow website: **https://www.smartflow-rws.com**
 ---
 
 Enjoy your new clean repository 🚀
+=======
+# externalSensorsTechnion
+Data integration of external Sensors for Technion project
+>>>>>>> 6304084adda7d74643f211d37f4d64d9ca4e5f51
